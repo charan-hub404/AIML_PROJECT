@@ -1,0 +1,11 @@
+Game Name,Players,Play Time (min),Category,Mechanics,Victory Condition,Complexity (1-5),Average Rating (1-10)
+Chess,2,60,Abstract,"Grid movement, Capture",Checkmate opponent king,4,8.5
+Monopoly,2-6,120,Family,"Dice rolling, Trading",Opponents bankrupt,2,6.2
+Catan,3-4,90,Strategy,"Resource management, Trading",Reach 10 victory points,3,7.9
+Uno,2-10,20,Party,"Card play, Matching",Get rid of all cards,1,7.0
+Pandemic,2-4,60,Cooperative,"Resource management, Team play",Cure all 4 diseases,3,8.0
+Carrom,2-4,30,Casual,"Flicking, Aiming",Most points from coins,2,7.5
+Scrabble,2-4,50,Word,"Word building, Tile placement",Highest score with words,3,7.8
+Snakes and Ladders,2-6,15,Casual,"Dice rolling, Luck based",Reach last square first,1,6.0
+Checkers,2,40,Abstract,"Grid movement, Capture",Capture all opponent pieces,2,7.2
+Risk,2-6,120,Strategy,"Area control, Dice rolling",Conquer territories,4,8.1
